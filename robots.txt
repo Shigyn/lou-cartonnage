@@ -1,2 +1,5 @@
+# Apercu : site cache aux moteurs. A la mise en ligne, mettre APERCU = False dans pages-seo.py.
 User-agent: *
 Disallow: /
+
+Sitemap: https://shigyn.github.io/lou-cartonnage/sitemap.xml
